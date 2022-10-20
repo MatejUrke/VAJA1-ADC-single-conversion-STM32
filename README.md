@@ -7,10 +7,10 @@ Postopek inicializacije periferije:
 - ADC ima 16 vhodnih kanalov.
 -  Za branje potenciometra je izbran kanal IN5. poleg pina se izpiše ADC1_IN5.pin je PA0:
 
-
+CubeMx PinOut
 ![image](https://user-images.githubusercontent.com/97598727/196907548-5e880fd4-4455-4788-8039-9ba11af323bc.png)
 
 
-
+Potenciometer
 ![image](https://user-images.githubusercontent.com/97598727/196909676-a101905b-db8d-497a-a9a1-79f10fab568f.png)
 
