@@ -12,4 +12,5 @@ Postopek inicializacije periferije:
 
 
 
+![image](https://user-images.githubusercontent.com/97598727/196909676-a101905b-db8d-497a-a9a1-79f10fab568f.png)
 
