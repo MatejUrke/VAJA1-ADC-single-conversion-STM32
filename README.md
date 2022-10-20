@@ -1,7 +1,7 @@
 Cilj naloge: S pomočjo programskega okolja STM32CubeIDE in HAL knjižnicami sprogramirajte ARM mikroprocesor tako,da bo izvedel posamične ADC pretvorbe z izbranim potenciometrom
 Postopek inicializacije periferije:
 - Uporabljena razvojna plošča je NUCELO-L476RG.
-- Zeldena LED je priključena na PA5 pinu, Modra LED pa na PA6. Na pin PA0 je priključen potenciometer.
+- Zeldena LED je priključena na PA5 pinu, Modra LED pa na PA6. Na pin PC0 je priključen potenciometer.
 - Razvojna ploščica ima 3 ADC pretvorbo.
 - Trikotnik predstavlja opozorilo da je nekje med pini knonflikt. Ta konflikt resimo tako da odstranimo   pine oziroma jih nastavimo na set-reset.
 - ADC ima 16 vhodnih kanalov.
@@ -15,3 +15,6 @@ CubeMx PinOut
 Potenciometer
 ![image](https://user-images.githubusercontent.com/97598727/196909676-a101905b-db8d-497a-a9a1-79f10fab568f.png)
 
+
+Komentar
+Zdi se mi da vse deluje brez kakrsno koli problema
