@@ -6,7 +6,10 @@ Postopek inicializacije periferije:
 - Trikotnik predstavlja opozorilo da je nekje med pini knonflikt. Ta konflikt resimo tako da odstranimo   pine oziroma jih nastavimo na set-reset.
 - ADC ima 16 vhodnih kanalov.
 -  Za branje potenciometra je izbran kanal IN5. poleg pina se izpiše ADC1_IN5.pin je PA0:
-![image](https://user-images.githubusercontent.com/97598727/196910597-0a7fe643-006d-4a1b-bba5-4e5f58620af3.png)
+|   6 bit    |    10 bit    |    12 bit    |    16 bit     |
+      | :--------: | :----------: | :----------: | :-----------: |
+      | od 0 do 63 | od 0 do 1023 | od 0 do 4095 | od 0 do 65535 |
+
 
 CubeMx PinOut
 ![image](https://user-images.githubusercontent.com/97598727/196907548-5e880fd4-4455-4788-8039-9ba11af323bc.png)
