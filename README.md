@@ -9,6 +9,10 @@ Postopek inicializacije periferije:
 |   6 bit    |    10 bit    |    12 bit    |    16 bit     |
       | :--------: | :----------: | :----------: | :-----------: |
       | od 0 do 63 | od 0 do 1023 | od 0 do 4095 | od 0 do 65535 |
+
+
+
+
 CubeMx PinOut
 ![image](https://user-images.githubusercontent.com/97598727/196907548-5e880fd4-4455-4788-8039-9ba11af323bc.png)
 
