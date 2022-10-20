@@ -5,7 +5,7 @@ Postopek inicializacije periferije:
 - Razvojna ploščica ima 3 ADC pretvorbo.
 - Trikotnik predstavlja opozorilo da je nekje med pini napaka. To napako rešimo tako da odstranimo   pine oziroma jih nastavimo na set-reset.
 - ADC ima 16 vhodnih kanalov.
--  Za branje potenciometra je izbran kanal IN5. poleg pina se izpiše ADC1_IN5.pin je PA0:
+-  Za branje potenciometra je izbran kanal IN1. poleg pina se izpiše ADC1_IN1.pin je PC0:
 |   6 bit    |    10 bit    |    12 bit    |    16 bit     |
       | :--------: | :----------: | :----------: | :-----------: |
       | od 0 do 63 | od 0 do 1023 | od 0 do 4095 | od 0 do 65535 |
