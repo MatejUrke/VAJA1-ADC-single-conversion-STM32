@@ -19,7 +19,7 @@ CubeMx PinOut
 
 
 Potenciometer
-![image](https://user-images.githubusercontent.com/97598727/196909676-a101905b-db8d-497a-a9a1-79f10fab568f.png)
+![IMG_0140](https://user-images.githubusercontent.com/97598727/196914360-a8bcdcd6-a290-4cde-974f-1f9ee32f47b5.jpg)
 
 
 Komentar
