@@ -14,6 +14,7 @@ Postopek inicializacije periferije:
 
 
 CubeMx PinOut
+
 ![image](https://user-images.githubusercontent.com/97598727/196907548-5e880fd4-4455-4788-8039-9ba11af323bc.png)
 
 
