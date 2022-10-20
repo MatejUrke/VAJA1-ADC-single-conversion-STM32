@@ -17,4 +17,5 @@ Potenciometer
 
 
 Komentar
+
 Zdi se mi da vse deluje brez kakrsno koli problema
