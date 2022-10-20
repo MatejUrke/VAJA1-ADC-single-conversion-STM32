@@ -3,7 +3,7 @@ Postopek inicializacije periferije:
 - Uporabljena razvojna plošča je NUCELO-L476RG.
 - Zeldena LED je priključena na PA5 pinu, Modra LED pa na PA6. Na pin PC0 je priključen potenciometer.
 - Razvojna ploščica ima 3 ADC pretvorbo.
-- Trikotnik predstavlja opozorilo da je nekje med pini knonflikt. Ta konflikt resimo tako da odstranimo   pine oziroma jih nastavimo na set-reset.
+- Trikotnik predstavlja opozorilo da je nekje med pini napaka. To napako rešimo tako da odstranimo   pine oziroma jih nastavimo na set-reset.
 - ADC ima 16 vhodnih kanalov.
 -  Za branje potenciometra je izbran kanal IN5. poleg pina se izpiše ADC1_IN5.pin je PA0:
 |   6 bit    |    10 bit    |    12 bit    |    16 bit     |
@@ -25,3 +25,5 @@ Potenciometer
 Komentar
 
 Zdi se mi da vse deluje brez kakrsno koli problema
+
+
